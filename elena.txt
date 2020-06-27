@@ -1,3 +1,4 @@
-Hola mi nombre es Elena Fernandez 
-Tengo 19 años
+Hola mi nombre es Elena Sofia Fernandez 
+Tengo 20 años
 Estoy aprendiendo Git
+Hoy es Viernes
