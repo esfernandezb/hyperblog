@@ -1,4 +1,4 @@
-Elena
-Fernandez
-16 años
-hola
+Hola mi nombre es Elena Sofia Fernandez 
+Tengo 20 aÃ±os
+Estoy aprendiendo Git
+Hoy es Viernes
