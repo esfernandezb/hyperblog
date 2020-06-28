@@ -14,3 +14,4 @@ En este curso vemos de todooooo
 > - a
 > - aloooo
 
+Incluye ejemplos de win, mac, linux
